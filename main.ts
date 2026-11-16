@@ -1,8 +1,8 @@
-// ai-excited-01 entry: write the fixed image to the output directory.
-// Deterministic by construction: the program copies the same bytes from
-// entry.png beside this file, so every run produces identical output.
-// In the grader's sandbox the output lands in /output; outside it,
-// MAKEFUN_OUTPUT_DIR stands in for /output.
+// ai-excited-01 v2 entry: write the fixed image to the output directory.
+// The program copies the same bytes from entry.png beside this file on
+// every run, so the output is byte-identical across runs by construction.
+// The grader's sandbox writes to /output; MAKEFUN_OUTPUT_DIR overrides
+// the destination for local runs.
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';

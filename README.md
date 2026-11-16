@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/bagusekawx/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/bagusekawx/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A child's crayon drawing of a rocket launch — "IT'S LAUNCHING!!!" — made to excite make.fun's AI judge. The entry program deterministically copies entry.png to /output/entry.png.
+A colossal blue whale breaching straight up through a city street at dawn — tons of ocean water exploding around it in golden light, tiny cars below for impossible scale. Made to excite make.fun's AI judge. The entry program deterministically copies entry.png to /output/entry.png.
 
 ## Run it
 
